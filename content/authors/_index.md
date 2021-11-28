@@ -2,7 +2,7 @@
 cms_exclude: true
 
 # To publish author profile pages, remove all of the `_build` and `cascade` settings below.
- title: Dr. Xiaotu Ma
+title: Dr. Xiaotu Ma
 role: "Postdoctoral Research Scientist "
 avatar_filename: avatar.jpg
 bio: My research interests include recycling Li-ion batteries, synthezation of
