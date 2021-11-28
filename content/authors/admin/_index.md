@@ -1,5 +1,5 @@
 ---
-title: Xiaotu Ma
+title: Dr. Xiaotu Ma
 role: "Postdoctoral Research Scientist "
 avatar_filename: avatar.jpg
 bio: My research interests include recycling Li-ion batteries, synthezation of
