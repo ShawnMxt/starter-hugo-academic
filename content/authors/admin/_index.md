@@ -39,6 +39,6 @@ email: xma3@wpi.edu
 superuser: true
 highlight_name: true
 ---
-Xiaotu Ma is a Postdoctoral Research Scientist in Prof. Yan Wang's group. He obtained his Ph.D. degree majoring in Materials Science & Engineering at Worcester Polytechnic Institute in 2021.
+Xiaotu Ma is a Postdoctoral Research Scientist in Prof. Yan Wang's group. He obtained his Ph.D. degree majoring in Materials Science & Engineering at Worcester Polytechnic Institute in 2021.g
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
